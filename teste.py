@@ -1,4 +1,4 @@
 from pytubefix import YouTube
-yt = input("Enter the YouTube video URL: ")
-yt = YouTube(yt)
+video = input("Enter the YouTube video URL: ")
+yt = YouTube(video.strip())
 print(yt.title)
