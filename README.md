@@ -1,3 +1,3 @@
-# O meu primeiro projeto
+## Estado do projeto
 
-Estou a aprender Git e GitHub com Python.
+Em desenvolvimento.
