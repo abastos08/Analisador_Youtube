@@ -1,0 +1,26 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Segredos
+.env
+
+# Ficheiros gerados pelo projeto
+audio/
+transcricoes/
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.webm
+
+# macOS
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
